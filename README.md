@@ -10,7 +10,7 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=zinabwadig-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img align="center"  src="https://komarev.com/ghpvc/?username=zinabwadig-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
