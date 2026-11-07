@@ -9,8 +9,8 @@
   Currently improving my skills in HTML, CSS, JavaScript and React.
 </p>
 
-
-  <img align="center"  src="https://komarev.com/ghpvc/?username=zinabwadig-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zinabwadig-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
