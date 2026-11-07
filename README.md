@@ -1,15 +1,26 @@
-# Hi 👋, I'm Khaoula
+<h1 align="center">Hi 👋, I'm Khaoula</h1>
 
-### A passionate developer
+<h3 align="center">Frontend Developer in Progress | Spain 🇪🇸 </h3>
+<p align="center">
+
+  <p align="center">
+  I'm passionate about building websites and learning new technologies.
+  <br />
+  Currently improving my skills in HTML, CSS, JavaScript and React.
+</p>
 
 
-- 🌱 I'm currently learning **JavaScript**
+  <img src="https://komarev.com/ghpvc/?username=zinabwadig-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 💬 Ask me about **HTML and CSS**
 
+- 🌱 I'm currently learning **React**
+
+- 💬 Ask me about **HTML, CSS and JavaScript**
+- 🎨 I enjoy improving website design and user interfaces
+- 🤝 I'm open to learning and collaborating on projects
 - 📫 How to reach me **jkhaoula1979@gmail.com**
-
-- ⚡ Fun fact **⚡ I can still spend hours fixing one tiny bug... and then realize it was a typo.**
+- ⚡ Fun fact **⚡ I can still spend hours fixing one tiny bug... and then realize it was a typo.
 **
 
 <h3 align="left">Connect with me:</h3>
